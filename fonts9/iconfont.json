@@ -1,0 +1,51 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "6077738",
+      "name": "人像",
+      "font_class": "renxiang",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "10060838",
+      "name": "箭头",
+      "font_class": "jiantoujinggao",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "10810115",
+      "name": "箭头 向右",
+      "font_class": "changyongtubiao-xianxingdaochu-zhuanqu-",
+      "unicode": "e76a",
+      "unicode_decimal": 59242
+    },
+    {
+      "icon_id": "12578882",
+      "name": "menu-hamburger",
+      "font_class": "menu-hamburger",
+      "unicode": "e6c9",
+      "unicode_decimal": 59081
+    },
+    {
+      "icon_id": "12578883",
+      "name": "menu-left",
+      "font_class": "menu-left",
+      "unicode": "e6ca",
+      "unicode_decimal": 59082
+    },
+    {
+      "icon_id": "12578884",
+      "name": "menu-right",
+      "font_class": "menu-right",
+      "unicode": "e6cb",
+      "unicode_decimal": 59083
+    }
+  ]
+}

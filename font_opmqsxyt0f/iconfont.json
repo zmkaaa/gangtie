@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "258353",
+      "name": "小三角",
+      "font_class": "xiaosanjiao01",
+      "unicode": "e64e",
+      "unicode_decimal": 58958
+    },
+    {
+      "icon_id": "2989573",
+      "name": "微信二维码",
+      "font_class": "weixinerweima",
+      "unicode": "e6a8",
+      "unicode_decimal": 59048
+    },
+    {
+      "icon_id": "7511333",
+      "name": "耳机",
+      "font_class": "erji",
+      "unicode": "e503",
+      "unicode_decimal": 58627
+    },
+    {
+      "icon_id": "10740957",
+      "name": "电 话",
+      "font_class": "dianhua",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    }
+  ]
+}
